@@ -1,0 +1,6 @@
+[submodule "LCT_Spring20IU"]
+	path = LCT_Spring20IU
+	url = https://github.com/hany606/LCT_Spring20IU
+[submodule "DMD2_Spring20IU"]
+	path = DMD2_Spring20IU
+	url = https://github.com/hany606/DMD2_Spring20IU
