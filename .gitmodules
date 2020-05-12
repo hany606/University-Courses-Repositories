@@ -4,3 +4,21 @@
 [submodule "DMD2_Spring20IU"]
 	path = DMD2_Spring20IU
 	url = https://github.com/hany606/DMD2_Spring20IU
+[submodule "ITP2_Spring19IU"]
+	path = ITP2_Spring19IU
+	url = https://github.com/hany606/ITP2_Spring19IU
+[submodule "DSA_Spring19IU"]
+	path = DSA_Spring19IU
+	url = https://github.com/hany606/DSA_Spring19IU
+[submodule "ODE_Fall19IU"]
+	path = ODE_Fall19IU
+	url = https://github.com/hany606/ODE_Fall19IU
+[submodule "OS_Fall19IU"]
+	path = OS_Fall19IU
+	url = https://github.com/hany606/OS_Fall19IU
+[submodule "Eiffel101"]
+	path = Eiffel101
+	url = https://github.com/hany606/Eiffel101
+[submodule "IAI_Spring20IU"]
+	path = IAI_Spring20IU
+	url = https://github.com/hany606/IAI_Spring20IU
